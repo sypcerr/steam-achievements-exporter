@@ -46,4 +46,4 @@ A lightweight userscript for exporting Steam achievements with accurate unlocked
 
 ## Feedback
 
-If you have any feedback or found some bugs, please visit
+If you have any feedback or found some bugs, please click [here](https://github.com/sypcerr/steam-achievements-exporter/issues)
