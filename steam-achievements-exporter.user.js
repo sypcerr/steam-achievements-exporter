@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam Achievements Exporter
 // @namespace    https://github.com/sypcerr/steam-achievements-exporter
-// @version      1.02
+// @version      1.03
 // @description  Export Steam achievements with accurate unlocked/locked status and progress counters
 // @author       sypcerr
 // @match        https://steamcommunity.com/stats/*/achievements*
