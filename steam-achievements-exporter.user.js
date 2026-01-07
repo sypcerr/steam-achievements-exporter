@@ -95,7 +95,7 @@
 
         GM_setClipboard(finalText);
 
-        button.textContent = "✅ Copied to Clipboard!";
+        button.textContent = "📋 Copy Achievements";
         showPopup();
         setTimeout(() => {
             button.textContent = "📋 Copy Achievements";
