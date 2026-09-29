@@ -14,7 +14,7 @@
     'use strict';
 
     const button = document.createElement("button");
-    button.textContent = "📋 Copy Achievements";
+    button.textContent = "Copy Achievements";
     Object.assign(button.style, {
         position: "fixed",
         bottom: "20px",
@@ -95,10 +95,10 @@
 
         GM_setClipboard(finalText);
 
-        button.textContent = "📋 Copy Achievements";
+        button.textContent = "Copy Achievements";
         showPopup();
         setTimeout(() => {
-            button.textContent = "📋 Copy Achievements";
+            button.textContent = "Copy Achievements";
         }, 2000);
     });
 })();
